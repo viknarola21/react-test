@@ -1,0 +1,74 @@
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 27px;
+  background: gray;
+  color: #fff;
+}
+.alarm {
+  margin: 0px 20px 0px 20px;
+  border-bottom: 1px solid gray;
+  padding: 0px 15px;
+}
+.confirm-block {
+  background: #e9e9e9;
+}
+.inactive {
+  opacity: 0.5;
+}
+.alarmTime {
+  color: gray;
+  font-size: 30px;
+  font-weight: 700;
+}
+.alarmDiv {
+  margin-bottom: 40px;
+}
+
+element.style {
+}
+.custom-switch {
+  padding-left: 2.25rem;
+  margin-top: 20px;
+}
+
+.label {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.desc {
+  display: flex;
+  position: absolute;
+  margin-left: 141px;
+}
+
+.radioDiv {
+  display: flex;
+  margin-top: 30px;
+}
+.alarm-radio {
+  margin-right: 30px;
+}
+
+.alarmd {
+  margin: 12px 20px 0px 20px;
+  padding: 0px 15px;
+}
+
+.title-body {
+  display: flex;
+}
+
+.titeltext {
+  margin: 20px 323px;
+  position: relative;
+}
+
+svg.bi.bi-arrow-left {
+  width: 2em !important;
+  height: 2em !important;
+  margin-top: 21px;
+}
